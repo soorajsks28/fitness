@@ -1,0 +1,221 @@
+{
+  "note": "Images supplied by the website owner in the uploaded ZIP. Copyright/licensing status was not independently verified.",
+  "assets": [
+    {
+      "slug": "beginner-fitness-guide",
+      "file": "assets/images/user/beginner-fitness-guide.webp",
+      "source_file": "lw.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "full-body-workout-beginners",
+      "file": "assets/images/user/full-body-workout-beginners.webp",
+      "source_file": "20hw.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "strength-training-frequency",
+      "file": "assets/images/user/strength-training-frequency.webp",
+      "source_file": "stranth.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "progressive-overload-explained",
+      "file": "assets/images/user/progressive-overload-explained.webp",
+      "source_file": "over.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "walking-vs-running",
+      "file": "assets/images/user/walking-vs-running.webp",
+      "source_file": "w&r.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "how-much-protein-do-you-need",
+      "file": "assets/images/user/how-much-protein-do-you-need.webp",
+      "source_file": "protine.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "warm-up-cool-down-guide",
+      "file": "assets/images/user/warm-up-cool-down-guide.webp",
+      "source_file": "warm.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "common-workout-mistakes",
+      "file": "assets/images/user/common-workout-mistakes.webp",
+      "source_file": "workout form.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "how-to-build-a-sustainable-workout-routine",
+      "file": "assets/images/user/how-to-build-a-sustainable-workout-routine.webp",
+      "source_file": "fitnesswer.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "how-to-choose-the-right-weight",
+      "file": "assets/images/user/how-to-choose-the-right-weight.webp",
+      "source_file": "mbt.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "how-long-to-rest-between-sets",
+      "file": "assets/images/user/how-long-to-rest-between-sets.webp",
+      "source_file": "rest.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "training-volume-for-muscle-growth",
+      "file": "assets/images/user/training-volume-for-muscle-growth.webp",
+      "source_file": "cdw.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "build-muscle-with-limited-equipment",
+      "file": "assets/images/user/build-muscle-with-limited-equipment.webp",
+      "source_file": "frp.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "how-to-start-running-safely",
+      "file": "assets/images/user/how-to-start-running-safely.webp",
+      "source_file": "sbr.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "cardio-for-beginners",
+      "file": "assets/images/user/cardio-for-beginners.webp",
+      "source_file": "bcw.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "calorie-deficit-explained",
+      "file": "assets/images/user/calorie-deficit-explained.webp",
+      "source_file": "hm.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "strength-training-during-fat-loss",
+      "file": "assets/images/user/strength-training-during-fat-loss.webp",
+      "source_file": "fl.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "twenty-minute-no-equipment-workout",
+      "file": "assets/images/user/twenty-minute-no-equipment-workout.webp",
+      "source_file": "tdc.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "hip-mobility-routine",
+      "file": "assets/images/user/hip-mobility-routine.webp",
+      "source_file": "hip.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "rest-days-and-active-recovery",
+      "file": "assets/images/user/rest-days-and-active-recovery.webp",
+      "source_file": "restday.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "sleep-and-exercise-recovery",
+      "file": "assets/images/user/sleep-and-exercise-recovery.webp",
+      "source_file": "sleep.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "pre-workout-meals-guide",
+      "file": "assets/images/user/pre-workout-meals-guide.webp",
+      "source_file": "pwm.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "balanced-plate-guide",
+      "file": "assets/images/user/balanced-plate-guide.webp",
+      "source_file": "pro.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "protein-across-the-day",
+      "file": "assets/images/user/protein-across-the-day.webp",
+      "source_file": "bp.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "walking-for-daily-fitness",
+      "file": "assets/images/user/walking-for-daily-fitness.webp",
+      "source_file": "dw.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "hydration-for-workouts",
+      "file": "assets/images/user/hydration-for-workouts.webp",
+      "source_file": "bottle.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "how-to-track-fitness-progress",
+      "file": "assets/images/user/how-to-track-fitness-progress.webp",
+      "source_file": "thrick.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "beginner-strength-program-three-days",
+      "file": "assets/images/user/beginner-strength-program-three-days.webp",
+      "source_file": "q1.png",
+      "usage": "content"
+    },
+    {
+      "slug": "wearable-trackers-trend",
+      "file": "assets/images/user/wearable-trackers-trend.webp",
+      "source_file": "pushup.jpg",
+      "usage": "content"
+    },
+    {
+      "slug": "home-gym-equipment-trends",
+      "file": "assets/images/user/home-gym-equipment-trends.webp",
+      "source_file": "WhatsApp Image 2026-09-25 at 17.02.11.jpeg",
+      "usage": "content"
+    },
+    {
+      "slug": "push-up",
+      "file": "assets/images/user/push-up.webp",
+      "source_file": "pushup.jpg",
+      "usage": "exercise"
+    },
+    {
+      "slug": "bodyweight-squat",
+      "file": "assets/images/user/bodyweight-squat.webp",
+      "source_file": "tdc.jpeg",
+      "usage": "exercise"
+    },
+    {
+      "slug": "plank",
+      "file": "assets/images/user/plank.webp",
+      "source_file": "20hw.jpeg",
+      "usage": "exercise"
+    },
+    {
+      "slug": "dumbbell-romanian-deadlift",
+      "file": "assets/images/user/dumbbell-romanian-deadlift.webp",
+      "source_file": "mbt.jpeg",
+      "usage": "exercise"
+    },
+    {
+      "slug": "glute-bridge",
+      "file": "assets/images/user/glute-bridge.webp",
+      "source_file": "hip.jpeg",
+      "usage": "exercise"
+    },
+    {
+      "slug": "bird-dog",
+      "file": "assets/images/user/bird-dog.webp",
+      "source_file": "workout form.jpeg",
+      "usage": "exercise"
+    }
+  ]
+}
